@@ -1,0 +1,272 @@
+.header{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    display: flex;
+}
+.bbc{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    height: 30px;
+    width: 105px;
+    margin-top: 23px;
+    margin-left: 14px;
+}
+.letter{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+
+}
+.signin{
+    display: flex;
+    background-color: white;
+    width: 145px;
+    height: 54px;
+    margin-right: 5px;
+    margin-left: 0px;
+}
+.img img{
+    height: 32px;
+    width: 33px;
+    margin-top: 21px;
+    margin-left: 20px;
+}
+.img{
+    height: 58 px;
+    width: 57px;
+    margin-top: 1px;
+    
+    margin-left: 0px;
+    /* font-size: 10px; */
+    
+}
+.login{
+    color: black;
+    text-align: center;
+    font-size: 13px;
+    margin-right: 4px;
+    margin-left: 0px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    /* font-style: italic; */
+    width: 40px;
+    font-weight: bolder;
+
+
+    /* margin-right: 30px; */
+    /* margin-left: 20px; */
+
+}
+.homec{
+    color: blueviolet;
+    width: 100px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 35px;
+    /* font-style: oblique; */
+    font-weight: bolder;
+    
+}
+.Newss{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;
+
+}
+.Sports{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+.Reel{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;   
+}
+.Worklife{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+.Travel{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+.Future{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+.dot{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 18px;
+    font-size: 30px;   
+}
+.Search{
+    height: 2px;
+    width: 100px;
+    font-weight: bolder;
+    margin-top: 25px;
+   
+}
+.secondheader{
+    background-color: rgb(184, 0, 0);
+    width: 100%;
+    height: 87px;
+    cursor: pointer;
+    display: flex;
+    /* top: 0px; */
+
+}
+.secondh{
+    color: white;
+    font-size: 34px;
+    height: 100px;
+    width: 150px;
+    /* list-style: 50px; */
+    margin-left: 30px;
+    font-style: normal;
+    font-stretch: normal;
+    cursor: pointer;
+    margin-top: 0;
+    /* font-weight: bolder; */
+}
+.homet{
+    background-color: rgb(184, 0, 0);
+    height: 21px;
+    font-weight: 100px;   
+    /* margin-top: ; */
+}
+.hometw{
+    color: white;
+    height: 2px;
+    width: 5px;
+    margin-top: 25px;
+    font-size: 12px;
+    font-weight: bolder;
+    margin-left: 10px;
+    /* -ms-text-underline-position: alphabetic; */
+}
+.elazi{
+    background-color: black;
+    height: 0px;
+    margin: 0px;
+    margin-right: 400px;
+    /* margin-left: 150px; */
+
+}
+.lazo{
+    color: white;
+    height: 150px;
+    width: 100px;
+    margin-right: 500px;
+    /* margin-left: 0px; */
+    /* margin-top: 63px; */
+    font-size: 12px;
+    font-weight: bolder;
+    margin-top: 64px;
+    
+}
+.war{
+    background-color: black;
+    height: 25px;
+    width: 100px;
+    margin-right: 100px;
+    /* margin-right: 100px; */
+}
+.ukrain{
+    height: 250px;
+    width: 100px;
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+    margin-right: 400px;
+}
+.head-02{
+
+    height: 100%;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+.data{
+    color: white;
+    margin-top: 64px;
+    margin-left: -120px;
+    margin-right: 0px;
+}
+.corona{
+    color: white;
+    margin-top: 64px;
+    margin-left: 40px;
+    margin-right: 0px;
+
+}
+.Climate{
+    color: white;
+    margin-top: 64px;
+    margin-left: 50px;
+    margin-right: 0px;
+}
+.Video{
+    color: white;
+    margin-top: 64px;
+    margin-left: 70px;
+    margin-right: 0px;
+}
+.World{
+    color: white;
+    margin-top: 64px;
+    margin-left: 80px;
+    margin-right: 0px;
+
+}
+.Asia{
+    color: white;
+    margin-top: 64px;
+    margin-left: 90px;
+    margin-right: 0px;
+
+}
+.uk{
+    color: white;
+    margin-top: 64px;
+    margin-left: 100px;
+    margin-right: 0px;
+
+}
+.business{
+    color: white;
+    margin-top: 64px;
+    margin-left: 90px;
+    margin-right: 0px;
+}
+.tech{
+    color: white;
+    margin-top: 64px;
+    margin-left: 95px;
+    margin-right: 0px;
+}
+.Science{
+    color: white;
+    margin-top: 64px;
+    margin-left: 100px;
+    margin-right: 0px;
+}
